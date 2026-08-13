@@ -1,0 +1,18 @@
+body {
+  background-color: lightyellow;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+}
+
+button {
+  background-color: orange;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 10px; /* This makes the corners nice and round! */
+  cursor: pointer;
+}
